@@ -21,19 +21,28 @@
 # Plutus Link
 
 [Plutus Playground](https://playground.plutus.iohkdev.io/)
+
 [Plutus Tutorial](https://playground.plutus.iohkdev.io/tutorial/index.html)
+
 [Plutus Getting Started](https://developers.cardano.org/en/programming-languages/plutus/getting-started/)
+
 [Plutus Tutorial 2](https://github.com/input-output-hk/plutus/tree/master/doc/tutorials)
+
 [Plutus Youtube Series](https://www.youtube.com/watch?v=wNXKiQanLTc&ab_channel=LeetDev)
+
 [Udemy Course](https://www.udemy.com/course/plutus-reliable-smart-contracts/)
 
 # General API
 
 [blockfrost.io](https://blockfrost.io/)
+
 [cardano scan](https://cardanoscan.io/)
+
 [token tool](https://tokentool.io/)
+
 [stack exchange](https://area51.stackexchange.com/proposals/125174/cardano)
 
 
 # Marlowe / Plutus Contracts
+
 [github](https://github.com/logicalmechanism/Marlowe-Plutus-Contracts)
